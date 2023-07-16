@@ -32,7 +32,7 @@ export default function Features() {
             <Text style={styles.tag}>Smart AI</Text>
         </View>
         <Text style={styles.tag2}>
-            ChatGpt can provide you with instant and knowledgeable responses, assist you with creative ideas on a wide range of topics.
+        A powerful voice assistant with the abilities of  ChatGPT and Dall-E, providing you the best of both worlds, assist you with creative ideas on a wide range of topics.
         </Text>
       </View>
     </View>

@@ -7,7 +7,7 @@ import { dummyMessages } from '../constants';
 
 
 export default function HomeScreen() {
-    const [messages, setMessages] = useState(dummyMessages);
+    const [messages, setMessages] = useState([]);
   return (
     <View style={styles.container0}>
         <SafeAreaView style={styles.container}>
